@@ -1,0 +1,67 @@
+.fa-power-off{
+    width: 50%;
+}
+
+/* seksyen 1 */
+.seksyen1{
+    background-color:#C9CCD5;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-shaf{
+    color: #C8C6C6
+}
+
+/* seksyen 2 */
+
+.seksyen2{
+    background-color: #E4D8DC;
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+
+.icon{
+    color: black;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 13%;
+}
+
+.seksyen4{
+    background-color: beige;
+    padding: 5%;
+    text-align: center;
+}
+
+/* seksyen 5 */
+.seksyen5{
+    background-color: #C8C6C6;
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: #343a40;
+}
+
+/* footer */
+.footer{
+    background-color: #4B6587;
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: white;
+}
+
+ h1{
+    font-family: 'Libre Baskerville', serif;
+ }
+ 
+ h2{
+    font-family: 'Noto Serif', serif;
+ }
